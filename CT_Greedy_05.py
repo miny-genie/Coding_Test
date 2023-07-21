@@ -1,4 +1,4 @@
-# ---------- Import -----
+# ---------- Import ----------
 from collections import defaultdict
 import sys
 input = sys.stdin.readline
